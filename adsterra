@@ -1,0 +1,25 @@
+<script type="text/javascript">
+	atOptions = {
+		'key' : '257314a17422829ac3a71f8a924db6c7',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<script type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectiveperformanceformat.com/257314a17422829ac3a71f8a924db6c7/invoke.js"></script>');
+</script>
+
+
+
+<script type="text/javascript">
+	atOptions = {
+		'key' : '9078c0f727f792e8e6e576065991f7ca',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<script type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectiveperformanceformat.com/9078c0f727f792e8e6e576065991f7ca/invoke.js"></script>');
+</script>
+
+
